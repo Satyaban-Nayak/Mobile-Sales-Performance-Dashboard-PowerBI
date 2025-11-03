@@ -5,7 +5,6 @@ An interactive **Power BI dashboard** built to analyze **multi-brand mobile sale
 <img width="1296" height="737" alt="image" src="https://github.com/user-attachments/assets/eeacb8c6-fddc-4aa0-8125-f18a1f1aa429" />
 
 [Final Dashboard](https://github.com/Satyaban-Nayak/Mobile-Sales-Performance-Dashboard-PowerBI/blob/main/Mobile%20Sales%20Performance%20Dashboard.pbix)
-
 ---
 
 ## 🧩 **Project Overview**
@@ -47,7 +46,7 @@ This dashboard provides in-depth insights into:
 ---
 
 ## 🎓 **Learning Source**
-📚 Learned from * @Satish Dhawale, Founder of Skill Course*  
+📚 Learned from **[SatishDhawale](https://www.linkedin.com/in/satish-dhawale/), Founder of [Skill Course](https://skillcourse.in/)**  
 Special thanks for the clear, practical guidance in building real-world Power BI dashboards. 🙏  
 
 ---
@@ -57,10 +56,13 @@ Special thanks for the clear, practical guidance in building real-world Power BI
 
 ---
 
-## 💬 **Connect With Me**
-🔗[LinkedIn Profile]([www.linkedin.com/in/satyaban-nayak-06bb65374](https://www.linkedin.com/in/satyaban-nayak-06bb65374/))
-
-🐙 [GitHub Profile](https://github.com/Satyaban-Nayak)
+## 👤 Author    
+**Satyaban Nayak**
+| Platform | Link |
+| --- | --- |
+| **GitHub** | https://github.com/Satyaban-Nayak |
+| **LinkedIn** | www.linkedin.com/in/satyaban-nayak-06bb65374 |
+| **Email** | satyabannayak78@gmail.com |
 
 ---
 
