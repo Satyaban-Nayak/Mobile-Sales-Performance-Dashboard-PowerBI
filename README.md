@@ -2,7 +2,9 @@
 
 An interactive **Power BI dashboard** built to analyze **multi-brand mobile sales performance** across different cities, months, and payment methods.  
 
-![Dashboard Preview](e177a7f8-88b2-48bb-9d5d-0ba15a973ec6.png)
+<img width="1296" height="737" alt="image" src="https://github.com/user-attachments/assets/eeacb8c6-fddc-4aa0-8125-f18a1f1aa429" />
+
+[Final Dashboard](https://github.com/Satyaban-Nayak/Mobile-Sales-Performance-Dashboard-PowerBI/blob/main/Mobile%20Sales%20Performance%20Dashboard.pbix)
 
 ---
 
@@ -45,7 +47,7 @@ This dashboard provides in-depth insights into:
 ---
 
 ## 🎓 **Learning Source**
-📚 Learned from *Satish Dhawale, Founder of Skill Course*  
+📚 Learned from * @Satish Dhawale, Founder of Skill Course*  
 Special thanks for the clear, practical guidance in building real-world Power BI dashboards. 🙏  
 
 ---
