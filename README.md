@@ -58,8 +58,9 @@ Special thanks for the clear, practical guidance in building real-world Power BI
 ---
 
 ## 💬 **Connect With Me**
-🔗 [LinkedIn Profile](www.linkedin.com/in/satyaban-nayak-06bb65374)  
-🐙 [GitHub Profile](Satyaban-Nayak)
+🔗[LinkedIn Profile]([www.linkedin.com/in/satyaban-nayak-06bb65374](https://www.linkedin.com/in/satyaban-nayak-06bb65374/))
+
+🐙 [GitHub Profile](https://github.com/Satyaban-Nayak)
 
 ---
 
